@@ -1,0 +1,9 @@
+# install all required packages
+#pip install -r Requirements.txt
+#or install all required packages manually
+tensorflow
+keras
+matplotlib
+numpy
+scikit-learn
+pyqt5
