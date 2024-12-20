@@ -74,3 +74,4 @@ experiments/results/
 ENV/
 env/
 venv/
+.python-version
